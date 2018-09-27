@@ -1,0 +1,6 @@
+This is writing to a file.
+Congratulations on writing to a file!
+This is the fourth line
+This is the fifth line
+Treasure
+Treasure
